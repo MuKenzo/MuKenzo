@@ -1,4 +1,4 @@
-# Olá! Eu sou Murilo Kenzo (MuKenzo) 👋
+# Olá! Eu sou Murilo (MuKenzo) 👋
 
 Atualmente, atuo na área Comercial, mas venho expandindo meus conhecimentos em **Ciência da Computação**, com foco em **Python**, **Inteligência Artificial** e **Análise de Dados** para acelerar meus estudos e evoluir profissionalmente.
 
